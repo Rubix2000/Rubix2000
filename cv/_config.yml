@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+title: Tharshan Thayanandan CV
+description: <a href="https://drive.google.com/viewer?url=https://raw.githubusercontent.com/Rubix2000/cv/pdf/rubix2000_CV.pdf">View PDF</a>
+              &#124; <a href="https://raw.githubusercontent.com/rubix2000/cv/pdf/rubix2000_CV.pdf">Download PDF</a> 
+              &#124; <a href="https://rubix2000.github.io/cv/resume_pdf.htm?src=https://raw.githubusercontent.com/rubix2000/cv/main/index.md">View Markdown</a>
+github:
+  is_project_page: false
